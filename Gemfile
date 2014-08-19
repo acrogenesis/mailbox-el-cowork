@@ -5,7 +5,7 @@ ruby '2.1.2'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.5'
 # Use mysql2 as the database for Active Record
-gem 'mysql2'
+gem 'pg'
 
 # dokku
 gem 'rails_12factor'
